@@ -57,7 +57,7 @@
   <a class="social-link" href="https://www.instagram.com/lucaspedropl_/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" >
   </a>
-  <a class="social-link" href="https://www.linkedin.com/in/mthalvarez_/" target="_blank" style="text-decoration: none;">
+  <a class="social-link" href="https://www.linkedin.com/in/pedro-lucas-silva-mota-769a70267/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
   </a>
   <a class="social-link" href="mailto:seuemail@gmail.com" target="_blank" style="text-decoration: none;">
